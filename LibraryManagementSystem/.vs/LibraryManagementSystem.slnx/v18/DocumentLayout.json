@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|d:\\adam\\documents\\visualstudioprojects\\librarymanagementsystem\\librarymanagementsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\Controllers\\BookItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\BookItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|d:\\adam\\documents\\visualstudioprojects\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|d:\\adam\\documents\\visualstudioprojects\\librarymanagementsystem\\models\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|solutionrelative:models\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|d:\\adam\\documents\\visualstudioprojects\\librarymanagementsystem\\models\\bookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|solutionrelative:models\\bookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|d:\\adam\\documents\\visualstudioprojects\\librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|d:\\adam\\documents\\visualstudioprojects\\librarymanagementsystem\\librarymanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryManagementSystem.http",
+              "DocumentMoniker": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\LibraryManagementSystem.http",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.http",
+              "ToolTip": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\LibraryManagementSystem.http",
+              "RelativeToolTip": "LibraryManagementSystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-16T14:07:48.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookItemsController.cs",
+              "DocumentMoniker": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\Controllers\\BookItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookItemsController.cs",
+              "ToolTip": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\Controllers\\BookItemsController.cs",
+              "RelativeToolTip": "Controllers\\BookItemsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T14:03:29.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:25:27.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\Models\\BookContext.cs",
+              "RelativeDocumentMoniker": "Models\\BookContext.cs",
+              "ToolTip": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\Models\\BookContext.cs",
+              "RelativeToolTip": "Models\\BookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:23:27.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookItem.cs",
+              "DocumentMoniker": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\Models\\BookItem.cs",
+              "RelativeDocumentMoniker": "Models\\BookItem.cs",
+              "ToolTip": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\Models\\BookItem.cs",
+              "RelativeToolTip": "Models\\BookItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:22:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryManagementSystem",
+              "DocumentMoniker": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.csproj",
+              "ToolTip": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T13:59:07.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryManagementSystem.csproj",
+              "DocumentMoniker": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.csproj",
+              "ToolTip": "D:\\Adam\\Documents\\VisualStudioProjects\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T13:21:21.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+﻿@LibraryManagementSystem_HostAddress = https://localhost:7204
+
+POST {{LibraryManagementSystem_HostAddress}}/api/bookitems
+Content-Type: application/json
+
+{
+  "title": "Evercold",
+  "author": "Halmarut",
+  "genre": "Fiction",
+  "isAvailable": true
+}
+
+###
+
+POST {{LibraryManagementSystem_HostAddress}}/api/bookitems
+Content-Type: application/json
+
+{
+  "title": "Dawntrail",
+  "author": "Sphene",
+  "genre": "Fiction",
+  "isAvailable": true
+}
+
+###
+
+GET {{LibraryManagementSystem_HostAddress}}/api/bookitems
+
+###
+
+@id=1
+GET {{LibraryManagementSystem_HostAddress}}/api/bookitems/{{id}}
+
+###
+
+PUT {{LibraryManagementSystem_HostAddress}}/api/bookitems/1
+Content-Type: application/json
+
+{
+  "id": 1,  
+  "title": "Endwalker",
+  "author": "Hermes",
+  "genre": "Fiction",
+  "isAvailable": true
+}
+
+###
+
+DELETE {{LibraryManagementSystem_HostAddress}}/api/bookitems/1
+
+###
